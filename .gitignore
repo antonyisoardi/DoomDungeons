@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+*.log
+# id Software's game data is never committed. Keep your own WADs here.
+wads/
+*.wad
+*.WAD
+.claude/

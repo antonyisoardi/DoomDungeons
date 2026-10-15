@@ -1,0 +1,16 @@
+{
+  "name": "doomdungeons",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "DoomDungeons: Doom's maps, monsters and weapons rebuilt as an isometric block-world action game",
+  "license": "MIT",
+  "author": "Antony Isoardi",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
